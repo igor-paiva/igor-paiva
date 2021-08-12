@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... GoLedger
+- 🔭 I’m currently working on ... V360
 - 🌱 I’m currently learning ... NoSQL databases
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/him
