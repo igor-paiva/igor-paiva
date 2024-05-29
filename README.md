@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... V360
-- 🌱 I’m currently learning ... NoSQL databases
+- 🌱 I’m currently learning ... Rails 7
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/him
 - :email: How to reach me: ... igorbatistapaiva@outlook.com
